@@ -1,0 +1,30 @@
+{
+    "Status":0,
+    "Message":"OK",
+    "Result":[
+        {
+            "ProductId":10001,
+            "ProductName":"小米6",
+            "ProductPrice":1999,
+            "ProductPic":"1.jpg"
+        },
+        {
+            "ProductId":10002,
+            "ProductName":"小米7",
+            "ProductPrice":2999,
+            "ProductPic":"2.jpg"
+        },
+        {
+            "ProductId":10003,
+            "ProductName":"小米8",
+            "ProductPrice":3999,
+            "ProductPic":"3.jpg"
+        },
+        {
+            "ProductId":10004,
+            "ProductName":"小米9",
+            "ProductPrice":4999,
+            "ProductPic":"4.jpg"
+        }
+    ]
+}
